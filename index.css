@@ -2,20 +2,21 @@ img{
   height: 100px
 }
 body{
-  margin:0px
+  margin:0px;
+  min-height: 400px
 }
 header{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: rgb(133, 72, 133);
+  background-color: rgb(100,30,100);
     padding: 15px
 }
 .footer{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: rgb(133, 72, 133);
+  background-color: rgb(100,30,100);
     padding: 15px
 }
 .navbar{
@@ -29,7 +30,7 @@ header{
 
 .button{
   background-color: white;
-  colour: rgb(4,100,150);
+  color: rgb(4,100,150);
   border-radius: 5px;
   height: 15px;
   padding: 5px
