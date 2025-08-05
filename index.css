@@ -11,7 +11,13 @@ header{
   background-color: rgb(100,30,100);
     padding: 15px
 }
-
+footer{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(100,30,100);
+    padding: 15px
+}
 .navbar{
   display: flex;
   justify-content: space-between;
