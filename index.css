@@ -3,7 +3,6 @@ img{
 }
 body{
   margin:0px;
-  min-height: 400px
 }
 header{
   display: flex;
@@ -35,6 +34,12 @@ header{
   height: 15px;
   padding: 5px
 }
+
+.mainbody{
+min-height: 2000px;
+padding: 5px;
+}
+
 
 
 
