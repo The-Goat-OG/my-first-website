@@ -38,6 +38,7 @@ header{
 .mainbody{
 min-height: 500px;
 padding: 5px;
+cursor:auto
 }
 
 a:link, a:visited {
